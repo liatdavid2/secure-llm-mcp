@@ -9,6 +9,17 @@ The project is designed as a portfolio-ready integration layer:
 - Your existing Secure LLM Gateway remains the backend.
 - Claude can call typed tools instead of directly accessing backend code.
 
+### MCP Security Demo
+
+This demo shows how Claude Desktop uses a custom MCP server to call controlled security tools exposed by the Secure LLM Gateway.
+
+The demo includes:
+
+- Prompt injection detection and blocking
+- PII detection in model responses
+- Guard model metrics summary
+
+[![Watch the demo](images/video.png)](https://youtu.be/VnK5YKo17VA)
 
 ## Scenarios
 
