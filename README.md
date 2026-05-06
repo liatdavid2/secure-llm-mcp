@@ -10,7 +10,7 @@ The project is designed as a portfolio-ready integration layer:
 - Claude can call typed tools instead of directly accessing backend code.
 
 
-## Demo Scenarios
+## Scenarios
 
 The following scenarios demonstrate how Claude Desktop can call the custom MCP tools exposed by this project.
 
