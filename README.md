@@ -19,7 +19,7 @@ The demo includes:
 - PII detection in model responses
 - Guard model metrics summary
 
-[![Watch the demo](images/video.png)](https://youtu.be/VnK5YKo17VA)
+[![Watch the demo](images/MCP_video.png)](https://youtu.be/VnK5YKo17VA)
 
 ## Scenarios
 
